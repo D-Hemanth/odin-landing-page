@@ -11,7 +11,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: black;
-    background-color: blueviolet;
+    background-color: #F9FAF8;
 }
 
 img {
@@ -93,4 +93,43 @@ ul {
     justify-content: center;
     height: 100%;
     padding: 50px 0 75px;
+}
+
+.boxes .container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #F9FAF8;
+}
+
+.boxes h1 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+    margin: 30px 0;
+}
+
+.boxes img {
+    border-radius: 15px;
+    border: 3px solid #3882f6;
+    max-width: 175px;
+    max-height: 175px;
+}
+
+.boxes .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boxes .small-container {
+    display: flex;
+    column-gap: 50px;
+}
+
+.boxes .box {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 175px;
+    margin-bottom: 100px;
 }
