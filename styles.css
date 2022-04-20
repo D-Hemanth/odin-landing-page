@@ -136,3 +136,23 @@ ul {
     max-width: 175px;
     margin-bottom: 100px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+}
+
+.quote .container {
+    padding: 120px;
+}
+
+.quote p {
+    font-style: italic;
+}
+
+.quote h4 {
+    margin-right: 40px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 25px;
+}
