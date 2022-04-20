@@ -58,6 +58,8 @@ ul {
     justify-content: space-between;
     align-items: center;
     height: 100%;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .navbar ul {
