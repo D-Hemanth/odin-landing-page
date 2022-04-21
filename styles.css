@@ -156,3 +156,29 @@ ul {
     justify-content: flex-end;
     font-size: 25px;
 }
+
+.action {
+    margin: 100px;
+}
+.container .call {
+    padding: 50px 125px;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container h3 {
+    margin-bottom: 0;
+}
+
+.container .call {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.container .button {
+    margin: auto;
+}
