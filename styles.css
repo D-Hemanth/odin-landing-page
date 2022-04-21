@@ -182,3 +182,11 @@ ul {
 .container .button {
     margin: auto;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
