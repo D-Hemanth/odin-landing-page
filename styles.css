@@ -32,6 +32,15 @@ ul {
     padding: 0 20px;
 }
 
+button {
+    background-color: #3882f6;
+    color: #F9FAF8;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
 .navbar {
     background-color: #1F2937;
     height: 60px;
@@ -93,6 +102,10 @@ ul {
     justify-content: center;
     height: 100%;
     padding: 50px 0 75px;
+}
+
+.header p {
+    margin-bottom: 10px;
 }
 
 .boxes {
@@ -179,8 +192,11 @@ ul {
     align-items: center;
 }
 
-.container .button {
-    margin: auto;
+.action .button {
+    margin: 10px auto;
+    border: 3px solid #F9FAF8;
+    border-radius: 10px; 
+    padding-bottom: 0;
 }
 
 .footer {
