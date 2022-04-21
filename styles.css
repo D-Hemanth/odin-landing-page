@@ -210,3 +210,47 @@ button {
     background-color: #1F2937;
     color: #E5E7EB;
 }
+
+@media (max-width: 768px) {
+    .header .container {
+        flex-direction: column;
+    }
+
+    .header .content {
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header img {
+        max-width: 350px;
+        max-height: 350px;
+    }
+
+    .boxes h1 {
+        font-size: 20px;
+    }
+
+    .small-container {
+        flex-direction: column;
+    }
+
+    .quote p {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .quote h4 {
+        font-size: 13px;
+    }
+
+    .action .call {
+        flex-direction: column;
+    }
+
+    .action .call {
+        padding: 20px 20px;
+    }
+}
