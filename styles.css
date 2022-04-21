@@ -229,6 +229,15 @@ button {
         max-height: 350px;
     }
 
+    .header p {
+        max-width: 400px;
+        text-align: center;
+    }
+
+    .header h1 {
+        text-align: center;
+    }
+    
     .boxes h1 {
         font-size: 20px;
     }
@@ -240,10 +249,15 @@ button {
     .quote p {
         font-size: 20px;
         margin-bottom: 10px;
+        text-align: center;
     }
 
     .quote h4 {
         font-size: 13px;
+    }
+
+    .action {
+        text-align: center;
     }
 
     .action .call {
