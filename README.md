@@ -4,5 +4,5 @@ In this project i'll be creating an entire web page from a design image template
 
 ## Credits for images used in the landing page website:
 
-1. My Peace inside me-https://www.deviantart.com/bohy/art/My-Peace-inside-me-638580825 2.
+1. My Peace inside me-https://www.deviantart.com/bohy/art/My-Peace-inside-me-638580825
 2. Peacock Cosmic-https://www.deviantart.com/izapug/art/Peacock-Cosmic-847265379
