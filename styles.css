@@ -104,6 +104,10 @@ button {
     padding: 50px 0 75px;
 }
 
+.header .content {
+    margin-right: 40px;
+}
+
 .header p {
     margin-bottom: 10px;
 }
